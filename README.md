@@ -10,7 +10,7 @@ In this challenge, we received two datasets, one called "train" and other called
 These datasets contained multiple information about health exams, patience info, etc. that were related to the Hepatitis disease.
 We cleaned, prepared and build a model on the train dataset, cleaned and prepared the test dataset, then applied the models to the test dataset. 
 
-**Final steps***
+**Final steps**
 
 After saving the test dataset predictions in a csv file, they were sent to the professor, he then analysed it and returned the final kappa score of our prediction to us. 
 The winner would be who had the highest final kappa and in case of the same kappa, less results submissions! 
