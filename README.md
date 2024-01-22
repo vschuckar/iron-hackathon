@@ -1,14 +1,17 @@
 # Iron Hackathon
 
 **Challenge goal**
+
 The challenge was to build a model to predict if the patient will live or die, based on the "train" dataset and apply it to the test dataset.
 
 **Process**
+
 In this challenge, we received two datasets, one called "train" and other called "test". The train file had the information if the patient would live or die in order to train the model, while the test dataframe, naturally, did not have that information.
 These datasets contained multiple information about health exams, patience info, etc. that were related to the Hepatitis disease.
 We cleaned, prepared and build a model on the train dataset, cleaned and prepared the test dataset, then applied the models to the test dataset. 
 
 **Final steps***
+
 After saving the test dataset predictions in a csv file, they were sent to the professor, he then analysed it and returned the final kappa score of our prediction to us. 
 The winner would be who had the highest final kappa and in case of the same kappa, less results submissions! 
 
